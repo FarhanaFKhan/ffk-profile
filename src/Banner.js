@@ -1,11 +1,11 @@
 import React from 'react';
-import personalLogo from './personalLogo.png'
+import logo from './portfolio.png'
 
 function Banner(){
 
     return(
         <div className = "banner">
-            <img src={personalLogo} alt="<FarhanaFKhan /> in green on a black backgroung"/>
+            <img src={logo} alt="<FarhanaFKhan /> in green"/>
         </div>
         
     )

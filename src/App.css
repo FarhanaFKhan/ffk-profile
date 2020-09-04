@@ -16,12 +16,44 @@
 }
 
 .statement{
-  text-align:center;
   margin: 50px;
+  font-weight: bold;
+  font-size: 16pt;
 }
 
 .cards-container{
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+    
+}
+
+.card{
+  margin-top: 25px;
+}
+
+.form{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.form p{
+  font-weight: bold;
+  text-align: center;
+  font-size: 16pt;
+  padding-top: 10px;
+}
+
+.footer{
+  background-color:#FFD5B8 ;
+  text-align: center;
+  font-weight: bold ;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.footer p{
+  padding-top: 10px;
 }
 
 

@@ -1,9 +1,13 @@
 import React from 'react';
 import Header from './Header';
 import Banner from './Banner';
-import Skills from './Skills'
-import './App.css';
 import Statement from './Statement';
+import Cards from './Cards';
+import Contact from './Contact'
+import Footer from './Footer'
+
+import './App.css';
+
 
 function App() {
   return (
@@ -11,9 +15,11 @@ function App() {
     <Header />
     <Banner />
     <Statement />
-    <div className = "cards-conatiner">
-      <Skills />
-    </div>
+    <Cards />
+    <Contact />
+    <Footer />
+    
+    
     
       
     </div>
