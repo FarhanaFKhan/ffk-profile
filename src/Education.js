@@ -1,9 +1,15 @@
 import React from 'react';
+import { useHistory} from 'react-router-dom';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
+import Buttons from './Buttons';
 
 
 function Education(){
+  let history = useHistory();
+
+  function handleClick(){
+    history.push(`/education`);
+  }
 
     return(
         <div>
@@ -19,7 +25,7 @@ function Education(){
           <li>Bachelors in information and Communication Systems Engineering.</li>
       </ul>
     </Card.Text>
-    <Button variant="primary">Qualifications</Button>
+    <Buttons variant="primary" handleClick = {handleClick} name = {'Qualifications' }></Buttons>
   </Card.Body>
 </Card>
         </div>

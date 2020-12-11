@@ -1,9 +1,15 @@
 import React from 'react';
+import { useHistory} from 'react-router-dom';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
-
+import Buttons from './Buttons';
 
 function Skills(){
+  
+  let history = useHistory();
+
+  function handleClick(){
+    history.push(`/skills`);
+  }
 
     return(
         <div>
@@ -15,7 +21,7 @@ function Skills(){
       Over the years I have gained, through academics and work experience, a range of skill-set which 
       includes Communications, Interpersonal, Leadership and Organizing skills.
     </Card.Text>
-    <Button variant="primary">Skills Details</Button>
+    <Buttons variant="primary" handleClick = {handleClick} name = {'Skills Details' } >Skills Details</Buttons>
   </Card.Body>
 </Card>
         </div>
