@@ -14,9 +14,10 @@ function Education(){
     return(
         <div>
            <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="https://www.cbronline.com/wp-content/uploads/2017/02/Fotolia_108869632_Subscription_Monthly_M-770x590.jpg" />
+  <Card.Img variant="top" src="https://nces.ed.gov/programs/coe/images/nav/coe_hp_new.png" />
   <Card.Body>
-    <Card.Title>Education</Card.Title>
+  <br/>
+    <Card.Title><br/>Education</Card.Title>
     <Card.Text>
       A brief summary of my qualifications and courses taken over my academic years.
       <ul>
