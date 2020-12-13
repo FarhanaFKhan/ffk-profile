@@ -13,7 +13,7 @@ function ExperiencePage(){
         <Banner />
         <Content>
         <Sub>
-        <h5><a href="https://dev-graduate-directory.herokuapp.com/" target="_blank" rel="noopner noreferrer">CYF Graduate Directory</a>, England – October to November, 2020</h5>
+        <h5><a href="https://dev-graduate-directory.herokuapp.com/">CYF Graduate Directory</a>, England – October to November, 2020</h5>
         <p>As a part of the CYF Full Stack Web Development programme, I worked on to develop a graduate platform which would potentially help CYF graduates get hired. It is in the process of being deployed on to the official website.<br/> 
         This project helped me apply all that I learnt during the course and learn new technologies as well.
         </p>

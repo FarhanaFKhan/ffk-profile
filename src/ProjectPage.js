@@ -18,22 +18,22 @@ function ProjectPage(){
                     For the front-end: React.js, React bootstrap and Formik<br/>
                     For authentication: Oauth2 and GitHub Api<br/>
                     For back-end: Node.js, postgreSQL, Nodemailer<br/>
-                    <a href="https://dev-graduate-directory.herokuapp.com/" target="_blank" rel="noopner noreferrer">Preview</a> <strong>|</strong> <a href="https://github.com/OBakir90/cyf-final-project-pgsql-starter-kit/tree/develop" target="_blank" rel="noopner noreferrer">GitHub Repo</a></ListElement> <br/>
+                    <a href="https://dev-graduate-directory.herokuapp.com/">Preview</a> <strong>|</strong> <a href="https://github.com/OBakir90/cyf-final-project-pgsql-starter-kit/tree/develop">GitHub Repo</a></ListElement> <br/>
 
                 <ListElement><strong>TV Show DOM Project:</strong> Created a TV show guide using JavaScript DOM and calling APIs <br/>
-                <a href="https://cyf-farhanafkhan-tv.netlify.app/" target="_blank" rel="noopner noreferrer">Preview</a> <strong>|</strong> <a href="https://github.com/FarhanaFKhan/tv-show-dom-project" target="_blank" rel="noopner noreferrer">GitHub Repo</a> <br/>
+                <a href="https://cyf-farhanafkhan-tv.netlify.app/">Preview</a> <strong>|</strong> <a href="https://github.com/FarhanaFKhan/tv-show-dom-project">GitHub Repo</a> <br/>
                 </ListElement> <br/>    
 
                 <ListElement><strong>Journal Landing Page:</strong> Created a landing page using HTML and CSS.<br/>
-                                    <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/Project-journal/blob/master/index.html" target="_blank" rel="noopner noreferrer">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/Project-journal" target= "_blank" rel="noopner noreferrer">GitHub Repo</a></ListElement><br/>
+                                    <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/Project-journal/blob/master/index.html">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/Project-journal">GitHub Repo</a></ListElement><br/>
                 
                 
                 <ListElement><strong>Blog Landing Page:</strong> Created a landing page for a blog using HTML and CSS.<br/>
-                <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/html-css-project/blob/master/index.html" target="_blank" rel="noopner noreferrer">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/html-css-project" target="_blank" rel="noopner noreferrer">GitHub Repo</a>
+                <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/html-css-project/blob/master/index.html">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/html-css-project">GitHub Repo</a>
                 
                 </ListElement><br/>
             </ul>
-            <p>More work can be viewed on <a href="https://github.com/FarhanaFKhan" target="_blank" rel="noopner noreferrer">GitHub</a></p>
+            <p>More work can be viewed on <a href="https://github.com/FarhanaFKhan">GitHub</a></p>
         </Content>
         <Footer />
         

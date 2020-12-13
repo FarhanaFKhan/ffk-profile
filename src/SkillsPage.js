@@ -15,9 +15,9 @@ function SkillsPage(){
             <ul>
                 <ListElement><strong>IT skills:</strong> I have worked with various software programmes and technologies including MS Office, VS code, git, GitHub, PostgreSQL, Bootstrap, React Bootstrap, Oauth2, styled-components and Node.js</ListElement><br/>
                 <ListElement><strong>Organisational skills:</strong> I have always been well organised and managed time efficiently throughout my education and professional years.<br/>
-                    My organisational skills helped me achieve a distinction in masters and, recently, helped me complete the eight-month long <a href ='https://syllabus.codeyourfuture.io/' target='_blank' rel="noopner noreferrer">web development course</a>.</ListElement> <br/>
+                    My organisational skills helped me achieve a distinction in masters and, recently, helped me complete the eight-month long <a href ='https://syllabus.codeyourfuture.io/'>web development course</a>.</ListElement> <br/>
                 <ListElement><strong>Communication skills:</strong> I have been a keen public speaker during my academic years, which assisted in developing and enhancing my communication skills. <br/>
-                    As part of <a href= 'https://codeyourfuture.io/' target= '_blank' rel="noopner noreferrer">CodeYourFuture’s</a> (CYF) graduation day, I presented the final project to more than 100 people over Zoom. <br/>
+                    As part of <a href= 'https://codeyourfuture.io/'>CodeYourFuture’s</a> (CYF) graduation day, I presented the final project to more than 100 people over Zoom. <br/>
                     I have also participated in Model United Nations, debating and extempore speech competitions.</ListElement> <br/>
                 <ListElement><strong>Interpersonal skills:</strong> I contributed towards diverse and multicultural teamwork, group tasks and event organisation, which lead to the development of my interpersonal skills.
                     <br/>I enjoy collaborating on different projects. During the CYF course, I collaborated, as part of different teams, on various projects and tasks.
