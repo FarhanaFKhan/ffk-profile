@@ -25,11 +25,11 @@ function ProjectPage(){
                 </ListElement> <br/>    
 
                 <ListElement><strong>Journal Landing Page:</strong> Created a landing page using HTML and CSS.<br/>
-                                    <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/Project-journal/blob/master/index.html" target="_blank">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/Project-journal">GitHub Repo</a></ListElement><br/>
+                                    <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/Project-journal/blob/master/index.html" target="_blank">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/Project-journal" target= "_blank">GitHub Repo</a></ListElement><br/>
                 
                 
                 <ListElement><strong>Blog Landing Page:</strong> Created a landing page for a blog using HTML and CSS.<br/>
-                <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/html-css-project/blob/master/index.html" target="_blank">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/html-css-project">GitHub Repo</a>
+                <a href="https://htmlpreview.github.io/?https://github.com/FarhanaFKhan/html-css-project/blob/master/index.html" target="_blank">Preview</a>  <strong>|</strong> <a href="https://github.com/FarhanaFKhan/html-css-project" target="_blank">GitHub Repo</a>
                 
                 </ListElement><br/>
             </ul>

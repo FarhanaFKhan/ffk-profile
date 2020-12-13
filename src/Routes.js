@@ -5,6 +5,7 @@ import SkillsPage from './SkillsPage.js';
 import EducationPage from './EducationPage';
 import ExperiencePage from './ExperiencePage';
 import ProjectPage from './ProjectPage';
+import AdditionalPage from './AdditionalPage'
 
 
 const Routes = () => {
@@ -16,6 +17,7 @@ const Routes = () => {
 				<Route path='/projects' component={ProjectPage} />
 				<Route path='/education' component={EducationPage} />
 				<Route path='/experience' component={ExperiencePage} />
+				<Route path='/additional' component={AdditionalPage} />
 			</Switch>
 		</BrowserRouter>
 	);
