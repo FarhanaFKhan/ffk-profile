@@ -21,7 +21,7 @@ function Skills(){
       Over the years I have gained, through academics and work experience, a range of skill-set which 
       includes Communications, Interpersonal, Leadership and Organizing skills.
     </Card.Text>
-    <Buttons variant="primary" handleClick = {handleClick} name = {'Skills Details' } >Skills Details</Buttons>
+    <Buttons variant="primary" handleClick = {handleClick} name = {'Skills Details' } ></Buttons>
   </Card.Body>
 </Card>
         </div>
