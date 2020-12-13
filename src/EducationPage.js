@@ -22,11 +22,11 @@ function EducationPage(){
                 <li>CodeYourFuture is a not-for-profit organization which helps refugees and people from disadvantaged backgrounds to gain in-demand technical skills. <br/>
                     This eight-month long course is divided into different modules- HTML/CSS, JavaScript, React, Node.js and postreSQL. In addition to the technical skills, students are also taught personal development skills necessary for work place such as collaboration, pair programming, research, communication and presentation skills.</li><br/>
                 <li><strong>Modules</strong>| HTML, CSS, JavaScript, React, Node.js, PostgreSQL<br/>
-                    The syllabus can be found <a href='https://syllabus.codeyourfuture.io/' target= '_blank'> here.</a></li><br/>
-                <li><strong>Final Project</strong>| <a href='https://dev-graduate-directory.herokuapp.com/' target='_blank'>CYF Graduate Directory</a>. A platform to help CYF graduates get hired.</li><br/>       
+                    The syllabus can be found <a href='https://syllabus.codeyourfuture.io/' target= '_blank' rel='noopner noreferrer'> here.</a></li><br/>
+                <li><strong>Final Project</strong>| <a href='https://dev-graduate-directory.herokuapp.com/' target='_blank' rel='noopner noreferrer'>CYF Graduate Directory</a>. A platform to help CYF graduates get hired.</li><br/>       
             </ul>
             </div>
-            <a href='https://codeyourfuture.io/' target='_blank'><CyfImg src={cyf} alt="cyf logo"/></a>
+            <a href='https://codeyourfuture.io/' target='_blank' rel='noopner noreferrer'><CyfImg src={cyf} alt="cyf logo"/></a>
         </Cyf>
         <Gcu>
             <div><h5>Masters of Science in International Business Management |2014-2015 | Grade: Distinction</h5>
@@ -37,7 +37,7 @@ function EducationPage(){
                     <li><strong>MSc. Thesis</strong>| The role of SMEs in achieving Economic Growth in Pakistan and Challenges encountered: A case of Service Sector | <strong>Grade: Distinction</strong></li>
                 </ul>
             </div>
-            <a href='https://www.gcu.ac.uk/study/courses/details/index.php/P03178/International_Business_Management/' target='_blank'><GcuImg src={gcu} alt="gcu logo"/></a>
+            <a href='https://www.gcu.ac.uk/study/courses/details/index.php/P03178/International_Business_Management/' target='_blank' rel='noopner noreferrer'><GcuImg src={gcu} alt="gcu logo"/></a>
         </Gcu>
         <Ug>
             <div><h5>Bachelors in Information & Communication Systems Engineering |2010-2014 |GPA: 2.44/4.00</h5>
@@ -47,7 +47,7 @@ function EducationPage(){
                      and dissemination of information to masses through SMS via GSM modem |<strong>Grade : A</strong></li>
                 </ul>
             </div>
-            <a href='https://nust.edu.pk/' target='_blank'><UgImg src={nust} alt="nust logo"/></a>
+            <a href='https://nust.edu.pk/'  target='_blank' rel='noopner noreferrer' ><UgImg src={nust} alt="nust logo"/></a>
 
         </Ug>
             
